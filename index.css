@@ -27,6 +27,7 @@
                     background-color:rgb(130, 152, 189);
                     text-align:left;
                     border: 6px solid rgb(65, 95, 130);
+                    font-style: times new roman, serif typeface;
                     
                 }
                 .image {
@@ -50,6 +51,7 @@
                     padding:20px;
                     background-color:rgb(130, 152, 189);
                     border: 6px solid rgb(65, 95, 130);
+                    font-style: times new roman, serif typeface;
                 }
                 .hovering {
                    display:inline-block;

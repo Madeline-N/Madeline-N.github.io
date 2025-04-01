@@ -77,7 +77,7 @@
                    text-decoration:underline;
                }
                #background {
-                background:rgb(120, 73, 101);
+                background-color:rgb(120, 73, 101);
                 border-top: 1px solid rgb(120, 73, 101); 
                 border-bottom: 1px solid rgb(120, 73, 101);
                 }

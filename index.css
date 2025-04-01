@@ -1,5 +1,7 @@
 
- body {
+            <!––Made by Madeline N, finished April 1, 2025––>
+
+                body {
                     background-color:rgb(87, 42, 69);
                      }
                 h1 {
@@ -74,12 +76,12 @@
                    color:blue;
                    text-decoration:underline;
                }
-            #background {
+               #background {
                 background:rgb(120, 73, 101);
                 border-top: 1px solid rgb(120, 73, 101); 
                 border-bottom: 1px solid rgb(120, 73, 101);
-            }
-            #extra-bold {
+                }
+                #extra-bold {
                 font-size:20px;
                 style-weight:bold;
-            }
+                }
